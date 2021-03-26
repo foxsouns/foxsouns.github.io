@@ -1,2 +1,2 @@
 # foxsouns.github.io
-Woah, a site!
+This is a time killer lol
